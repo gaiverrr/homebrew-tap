@@ -1,8 +1,8 @@
 class AmneziaXrayAdmin < Formula
   desc "TUI dashboard for managing Amnezia VPN's Xray server"
   homepage "https://github.com/gaiverrr/amnezia-xray-admin"
-  url "https://github.com/gaiverrr/amnezia-xray-admin/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0c87abd287c935e877ae0fbf36eb3d1628e6d9f1c11bf2885d1c016a25f6904f"
+  url "https://github.com/gaiverrr/amnezia-xray-admin/archive/refs/tags/v0.1.8.tar.gz"
+  sha256 "2423a7ff3f97968d532788d813cd78b4884fba44a7881c0c2c6955f9cf007f6e"
   license "MIT"
 
   depends_on "rust" => :build
