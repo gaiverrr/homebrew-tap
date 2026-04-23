@@ -1,8 +1,8 @@
 class AmneziaXrayAdmin < Formula
-  desc "TUI dashboard for managing Amnezia VPN's Xray server"
+  desc "Personal CLI + Telegram bot for a double-hop Xray VPN"
   homepage "https://github.com/gaiverrr/amnezia-xray-admin"
-  url "https://github.com/gaiverrr/amnezia-xray-admin/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "7f6fb85d8b9f0d98a10f83e00ee0e5838ee12528e48f6bb21287d5221b869511"
+  url "https://github.com/gaiverrr/amnezia-xray-admin/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "4d7f11297d87953701351b8f9d8089b5c9bfc808c4a0ed1961d1cc5b0ecdca77"
   license "MIT"
 
   depends_on "rust" => :build
