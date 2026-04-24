@@ -1,8 +1,8 @@
 class AmneziaXrayAdmin < Formula
   desc "Personal CLI + Telegram bot for a double-hop Xray VPN"
   homepage "https://github.com/gaiverrr/amnezia-xray-admin"
-  url "https://github.com/gaiverrr/amnezia-xray-admin/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "4d7f11297d87953701351b8f9d8089b5c9bfc808c4a0ed1961d1cc5b0ecdca77"
+  url "https://github.com/gaiverrr/amnezia-xray-admin/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "1766806b2375184f061691748c88c6e97124b228c824a922218ed73450efd762"
   license "MIT"
 
   depends_on "rust" => :build
